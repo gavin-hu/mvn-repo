@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Java Formatter Maven Plugin</name>
+      <prefix>javafmt</prefix>
+      <artifactId>javafmt-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

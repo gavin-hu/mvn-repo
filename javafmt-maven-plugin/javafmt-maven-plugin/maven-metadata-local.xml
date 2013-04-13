@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>javafmt-maven-plugin</groupId>
+  <artifactId>javafmt-maven-plugin</artifactId>
+  <versioning>
+    <latest>1.0.0-SNAPSHOT</latest>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130413040458</lastUpdated>
+  </versioning>
+</metadata>
